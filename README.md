@@ -10,6 +10,7 @@
 |**[Youtube Clone](https://github.com/ciaracade/youtube-clone)**|📷 A responsive React JS based web app that serves as a Youtube Clone.|❌|   
 |**[Legend of Zelda: Breath of the Wild Recipe API](https://github.com/ciaracade/BOTW-Recipe-API)**|🍲 An API that serves data about food and recipes in the Breath of the Wild game franchise. |❌| 
 |**[Calculator](https://github.com/ciaracade/calculator)**|🧮 Simple HTML, CSS, and Javascript calculator. Project part of the Odin Project curriculum. |❌| 
+|**[Email Extrcator Python Script](https://github.com/ciaracade/email-extractor)**|📧 Python script that grabs emails from inputted text and outputs to a separate file. |✅| 
 |**[Etch-a-Sketch Website](https://github.com/ciaracade/etch-a-sketch)**|🎨 Website that serves as an etch a sketch. Part of The Odin Project curriclumn.|✅| 
 |**[Rock Paper Scissors](https://github.com/ciaracade/rock-paper-scissors)**|✂️ A rock paper scissors project website by The Odin Project|✅| 
 |**[Breath of the Wild Recipes](https://github.com/ciaracade/odin-recipes)**|📖 According to the Odin Project curriculum, a recipes page that allows us to practice HTML and CSS we've learned so far.|✅| 
