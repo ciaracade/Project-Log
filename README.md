@@ -11,13 +11,14 @@
 | [Youtube Clone](https://github.com/ciaracade/youtube-clone) |📷 A responsive React JS based web app that serves as a Youtube Clone.|⚠️ In Progress|
 | [Legend of Zelda: Breath of the Wild Recipe API](https://github.com/ciaracade/BOTW-Recipe-API) |🍲 An API that serves data about food and recipes in the Breath of the Wild game franchise.|⚠️ In Progress|
 | [Calculator](https://github.com/ciaracade/calculator) |🧮 Simple HTML, CSS, and Javascript calculator. Project part of the Odin Project curriculum.|⚠️ In Progress|
+| [Github Portfolio Website](https://github.com/ciaracade/ciaracade.github.io) |👤 Portfolio website|⚠️ In Progress|
+| [Go URL Shortener](https://github.com/ciaracade/go-url-shortener) |🔗 An http.Handler that forwards paths to other URLs written in Go|✅ Completed|
 | [Email Extrcator Python Script](https://github.com/ciaracade/email-extractor) |📧 Python script that grabs emails from inputted text and outputs to a separate file.|✅ Completed|
 | [Etch-a-Sketch Website](https://github.com/ciaracade/etch-a-sketch) |🎨 Website that serves as an etch a sketch. Part of The Odin Project curriculum.|✅ Completed|
 | [Rock Paper Scissors](https://github.com/ciaracade/rock-paper-scissors) |✂️ A rock paper scissors project website by The Odin Project|✅ Completed|
 | [Breath of the Wild Recipes](https://github.com/ciaracade/odin-recipes) |📖 According to the Odin Project curriculum, a recipes page that allows us to practice HTML and CSS we've learned so far.|✅ Completed|
 | [Password Generator](https://github.com/ciaracade/Password-Generator) |🔒 Website that generates passwords using given information.|✅ Completed|
 | [Example Landing Page](https://github.com/ciaracade/landing-page) |🏠 Landing page for The Odin Project|✅ Completed|
-| [Github Portfolio Website](https://github.com/ciaracade/ciaracade.github.io) |👤 Portfolio website|⚠️ In Progress|
 
 
 
