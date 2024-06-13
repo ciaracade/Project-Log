@@ -1,6 +1,7 @@
-![Repository Log](https://i.imgur.com/4YZF8Y3.png)
-
+<p align="center">
+  <img src="https://i.imgur.com/4YZF8Y3.png"> </br>
 📝 Info about all my repositories and their development progess
+</p>
 
 | Repository Name | Description | Progress |
 |-----------------|-------------|----------|
