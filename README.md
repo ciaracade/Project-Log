@@ -24,8 +24,8 @@
 | [Youtube Clone](https://github.com/ciaracade/youtube-clone) |📷 A responsive React JS based web app that serves as a Youtube Clone.|⚠️|
 | [Calculator](https://github.com/ciaracade/calculator) |🧮 Simple HTML, CSS, and Javascript calculator. Project part of the Odin Project curriculum.|⚠️|
 | [Github Portfolio Website](https://github.com/ciaracade/ciaracade.github.io) |👤 Portfolio website|⚠️|
+| [MP3Craft](https://github.com/ciaracade/mp3craft) |💿 A Minecraft mod that let's players add MP3 files to the game and burn them on discs to be played in-game.|⚠️|
 | [Legend of Zelda Ingredient Maximizer](https://github.com/ciaracade/Legend-of-Zelda-Ingredient-Maximizer) |🥘 A web app that helps players of Zelda BOTW/TOTK maximize their food recipes and potions using ingredients in their inventory.|❌|
-| [MP3Craft](https://github.com/ciaracade/mp3craft) |💿 A Minecraft mod that let's players add MP3 files to the game and burn them on discs to be played in-game.|❌|
 | [Legend of Zelda: Breath of the Wild Recipe API](https://github.com/ciaracade/BOTW-Recipe-API) |🍲 An API that serves data about food and recipes in the Breath of the Wild game franchise.|❌|
 | [Koi's CherryCraft](https://github.com/ciaracade/KoisCherrycraft) |🌸 A Minecraft Mod that adds new cherry blossom items to your gameplay!|❌|
 | [Koi's Pretty cakes](https://github.com/ciaracade/KoisPrettyCakes) |🎂 Adds new decorated cakes and ingredients to your Minecraft experience!|❌|
