@@ -6,7 +6,7 @@
 | Symbol| Meaning|
 |-------|--------|
 |✅| This project is completed (^o^)!|
-|⚠️| I am in the process of currently implementing this project. (^-^)|
+|⚠️| I am currently implementing this project. (^-^)|
 | ❌ | This project is currently an idea with implementation coming soon. (O_o)|
 
 
